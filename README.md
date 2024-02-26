@@ -1,4 +1,4 @@
-This RazorPay is made from HTML and Tailwind CSS.
+This Discord is made from HTML and Tailwind CSS.
 
 ========If you want to use this clone? to use this code in the terminal.=========
 
