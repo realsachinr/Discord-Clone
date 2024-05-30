@@ -1,5 +1,5 @@
 This Discord is made from HTML and Tailwind CSS.
-
+    
 ========If you want to use this clone? to use this code in the terminal.=========
 
 npm install -D tailwindcss postcss autoprefixer vite   
